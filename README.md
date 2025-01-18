@@ -1,2 +1,2 @@
 # PoesQOL
- Multi-Purpose quality of life mod
+ Multi-Purpose quality of life mod the game Vampire Survivors
